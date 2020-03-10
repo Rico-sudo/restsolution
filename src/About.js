@@ -1,11 +1,7 @@
 import React from 'react'
 
 export const About = () => (
-
-    <
-    div >
-    <
-    p > hello Home < /p> <
-    /div>
-
+    <div>
+        <h1>About</h1>
+    </div>
 )
